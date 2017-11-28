@@ -42,6 +42,7 @@ img {
   color: white;
 }
 #head #head-right ul{
+    padding: 10px;
     list-style-type: none;
     margin-right: 15px;
 }
