@@ -2,4 +2,5 @@
 it's some test-tasks 
 
 
-<a href = "https://codepen.io/SvetlanaGorbachenko/pen/QOrVoM">DEMO</a>
+<a href = "https://codepen.io/SvetlanaGorbachenko/pen/QOrVoM">DEMO - codepen.io</a>
+<a href = "https://svetlanagorbachenko.github.io/testTasks/">https://svetlanagorbachenko.github.io/testTasks/</a>
